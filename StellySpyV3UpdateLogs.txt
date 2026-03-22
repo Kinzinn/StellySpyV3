@@ -82,6 +82,8 @@ Fixed Error: Error 55. Line 3855. Function getFullPath. Out: attempt to index ni
 💾 Note
 Previous 2.3 files were lost, so this version has been rebuilt from scratch.
 
+-- See 2.5 in discord please
+
 {--------------------------------}
 
 
